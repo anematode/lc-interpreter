@@ -1,0 +1,1 @@
+((\x.((\factorial.(factorial x)) ((\g.((\r.(g (r r))) (\r.(g (r r))))) (\factorial.(\x.((((\n.((n (\v.(\t.(\f.f)))) (\t.(\f.t)))) x) (\f.(\x.(f x)))) (((\m.(\n.(\f.(\x.((m (n f)) x))))) x) (factorial (((\m.(\n.((n (\n.(\f.(\x.(((n (\g.(\h.(h (g f))))) (\u.x)) (\x.x)))))) m))) x) (\f.(\x.(f x)))))))))))) (\f.(\x.(f (f (f x))))))
